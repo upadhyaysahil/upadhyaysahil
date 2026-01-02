@@ -24,12 +24,15 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-ffffff?style=flat&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-ffffff?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-ffffff?style=flat&logo=mongodb)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-ffffff?style=flat&logo=amazondynamodb)
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle-ffffff?style=flat)
 
 ---
 
-### ☁️ Cloud & DevOps
+### ☁️ Cloud, Serverless & DevOps
 ![AWS](https://img.shields.io/badge/AWS-ffffff?style=flat&logo=amazonaws)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-ffffff?style=flat&logo=awslambda)
+![Serverless](https://img.shields.io/badge/Serverless-ffffff?style=flat&logo=serverless)
 ![Docker](https://img.shields.io/badge/Docker-ffffff?style=flat&logo=docker)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-ffffff?style=flat&logo=githubactions)
 ![CI/CD](https://img.shields.io/badge/CI/CD-ffffff?style=flat)
